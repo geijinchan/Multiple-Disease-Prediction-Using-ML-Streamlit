@@ -1,0 +1,12 @@
+python>=3.6
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+# For logistic regression model
+statsmodels
+
+# For XGBoost model
+xgboost
